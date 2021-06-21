@@ -45,7 +45,7 @@ p {
 }
 #Home{
  height: 800px;
- background: linear-gradient(#54c3ff, #b5baeb);   
+ background-color: linear-gradient(#54c3ff, #b5baeb);   
 }
 #About{
  height: 800px;
