@@ -1,0 +1,56 @@
+body{
+    text-align: center;
+    margin: 0;
+}
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto; 
+} 
+#image{
+    width: 450px;
+    margin-top: 50px;
+    border-radius: 50%;
+}
+p {
+    max-width: 450px;
+    margin: 25px auto;
+    font-size: 17px;
+    line-height: 1.3;
+}
+.menu{
+    list-style: none;
+    font-family: cursive;
+    position: fixed;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+.link:hover{
+    background-color: dodgerblue;
+    float: left;
+    color: #fff;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: fantasy;
+    font-size: 20px
+}
+}
+#Home{
+ height: 800px;
+ background: linear-gradient(#54c3ff, #b5baeb);   
+}
+#About{
+ height: 800px;
+} 
+#title{
+    font-size: 70px;
+}
+#title2{
+    font-size: 50px;
+}
